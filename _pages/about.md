@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Assist. Professor in AI and NLP</a> University of Birmingham.
 
