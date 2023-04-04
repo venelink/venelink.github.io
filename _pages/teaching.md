@@ -1,12 +1,22 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Teaching experience and current courses
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<b> Academic year [2022 - 2023] </b>
 
-Organize your courses by years, topics, or universities, however you like!
+Natural Language Processing (Spring 2023)
+
+<b> Previous courses </b>
+
+Human computation and crowdsourcing (2021 - 2022 @ UT Austin) 
+
+Python programming for data science (2020 - 2021 @ U of Birmingham)
+
+Python programming (2018 - 2019; 2019 - 2020 @ U of Barcelona)
+
+Natural Language Processing (2016 - 2017; 2017 - 2018 @ U of Barcelona)
