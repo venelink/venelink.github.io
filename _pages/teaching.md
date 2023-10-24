@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+<b> Academic year [2023 - 2024] </b>
+
+Experimental Design, Statistics, and Evaluation (Fall 2023)
+
+Neural Natural Language Processing (Spring 2024)
+
 <b> Academic year [2022 - 2023] </b>
 
 Natural Language Processing (Spring 2023)
